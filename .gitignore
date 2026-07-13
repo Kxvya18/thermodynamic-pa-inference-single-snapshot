@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.env
+venv/
+.venv/
+*.log
+.pytest_cache/
+.mypy_cache/
+*.pdf
+*.docx
+paper_outputs/
